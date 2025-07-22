@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from qiskit.transpiler.preset_passmanagers import generate_preset_pass_manager
 
 
-
+# Note that is is an unedit file, provided by QGSS 2025.
 
 def linear_model(x, a, b):
     return a * x + b
